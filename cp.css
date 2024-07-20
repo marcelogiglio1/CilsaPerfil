@@ -1,0 +1,36 @@
+﻿body{
+	background-image: linear-gradient(red, yellow);
+}
+.navbar{
+	width: 100%;
+	position: fixed;
+	top: 0 ;
+	z-index: 1;
+}
+section{
+	margin: 5px;
+	padding:5vh;
+	height: 100vh;
+}
+.card {
+	width: 100%;
+	padding: 3px;
+	border: 3px black solid;
+	bottom: 0;
+}
+.card-img-top {
+	height: 70vh;
+	border: 2px black solid;
+}
+input{
+	height: 5vh;
+	margin: 10px;
+}
+.carousel-item {
+	margin-left: 5%;
+	height: 90vh;
+	width: 90%;
+	padding: 3px;
+	border: 3px black solid;
+}
+.Carousel slide
